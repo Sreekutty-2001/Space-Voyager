@@ -1,0 +1,22 @@
+.img {
+    width: 100%;
+    height: 629px;
+    /* background-color: black; */
+    background-size: cover;
+}
+
+/* .landing-heading{
+background-color:blue ;
+color: white;
+    padding-top: 30px;
+    /* padding-right: 750px; */
+/* }  */
+.writtings {
+    margin-top: -350px;
+    margin-left: 900px;
+    color: white;
+    letter-spacing: 12px;
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
+    
+}
